@@ -17,3 +17,7 @@ This is a simple web project,deployment can be on any web server or even local f
 ## How To Contribute
 
 TBD
+
+### Copyright
+
+2023 Git.Training
