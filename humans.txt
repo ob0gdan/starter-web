@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Oleksandr Bogdan	oleksandr.bogdan@gmail.com	@MyTwitterAcc
 
 # THANKS
 
